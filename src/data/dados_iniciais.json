@@ -1,0 +1,189 @@
+{
+  "categorias": [
+    {
+      "titulo": "Inteligência Artificial",
+      "link": "https://www.youtube.com/watch?v=UwsrzCVZAb8",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/watch?v=WXuK6gekU1Y"
+      },
+      "videos": [
+        {
+          "titulo": "Documentários sobre Tecnologias",
+          "url": "https://www.youtube.com/watch?v=UwsrzCVZAb8"
+        },
+        {
+          "titulo": "Documentários sobre Tecnologia",
+          "url": "https://www.youtube.com/watch?v=WXuK6gekU1Y"
+        },
+        {
+          "titulo": "Open Source Stories: Road to AI",
+          "url": "https://www.youtube.com/watch?v=_sNNSEP-P7A"
+        },
+        {
+          "titulo": "Lo and Behold",
+          "url": "https://www.youtube.com/watch?v=37gINIRBDvs"
+        },
+        {
+          "titulo": "The Rise of AI",
+          "url": "https://www.youtube.com/watch?v=Dk7h22mRYHQ"
+        },
+        {
+          "titulo": "Artificial intelligence and its ethics",
+          "url": "https://www.youtube.com/watch?v=Izd2qOgOGQI"
+        }     
+      ]
+    },
+    {
+      "titulo": "Blockchain",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/watch?v=2iF73cybTBs"
+      },
+      "videos": [
+        {
+          "titulo": "The Blockchain and Us",
+          "url": "https://www.youtube.com/watch?v=2iF73cybTBs"
+        },
+        {
+          "titulo": "Blockchain City",
+          "url": "https://www.youtube.com/watch?v=I6fadL-0VRw"
+        },
+        {
+          "titulo": "Bitcoin: The End of Money As We Know It",
+          "url": "https://www.youtube.com/watch?v=yz8ymvqUMrU"
+        },
+        {
+          "titulo": "New Money: The Greatest Wealth Creation Event in History ",
+          "url": "https://www.youtube.com/watch?v=CaELQS5kTso"
+        }
+      ]
+    },
+    {
+      "titulo": "Série: The Age of A.I.",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/watch?v=UwsrzCVZAb8"
+      },
+      "videos": [
+        {
+          "titulo": "S1E1: How Far is Too Far?",
+          "url": "https://www.youtube.com/watch?v=UwsrzCVZAb8"
+        },
+        {
+          "titulo": "S1E2: Healed through A.I.",
+          "url": "https://www.youtube.com/watch?v=V5aZjsWM2wo"
+        },
+        {
+          "titulo": "S1E3: Using A.I. to build a better human",
+          "url": "https://www.youtube.com/watch?v=lrv8ga02VNg"
+        },
+        {
+          "titulo": "S1E4: Using A.I. to build a better human",
+          "url": "https://www.youtube.com/watch?v=Kr1fmKVY3cA"
+        },
+        {
+          "titulo": "S1E5: The 'Space Architects' of Mars",
+          "url": "https://www.youtube.com/watch?v=lIvrIKaNCRE"
+        },
+        {
+          "titulo": "S1E6: Will a robot take my job?",
+          "url": "https://www.youtube.com/watch?v=f2aocKWrPG8"
+        },
+        {
+          "titulo": "S1E7: Saving the world one algorithm at a time",
+          "url": "https://www.youtube.com/watch?v=0wy4u34fii4"
+        },
+        {
+          "titulo": "S1E8: How A.I. is searching for Aliens",
+          "url": "https://www.youtube.com/watch?v=VwtC_4t2g5M"
+        }
+      ]
+    },
+    {
+      "titulo": "Big Data",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Big Data",
+          "url": "https://www.youtube.com/watch?v=m9D-v6r3NJQ"
+        },
+        {
+          "titulo": "The Joy of Data",
+          "url": "https://www.youtube.com/watch?v=l6oKriR-RjM"
+        },
+        {
+          "titulo": "Amazon, Jeff Bezos and collecting data",
+          "url": "https://www.youtube.com/watch?v=O90PShJVu58&list=PLrw4bc6ZuMyLo_zCkUCubHJYBoAlr6P7r"
+        },
+        {
+          "titulo": "Next in (Data Science)",
+          "url": "https://www.youtube.com/watch?v=jY_j_IlhH0I"
+        }
+      ]
+    },
+    {
+      "titulo": "Smart Cities",
+      "cor": "red",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "City of the Future: Singapore",
+          "url": "https://www.youtube.com/watch?v=xi6r3hZe5Tg"
+        },
+        {
+          "titulo": "India’s smart city plan",
+          "url": "https://www.youtube.com/watch?v=5yFmbKIgE_U"
+        },
+        {
+          "titulo": "Songdo: Go Inside The City Of The Future",
+          "url": "https://www.youtube.com/watch?v=3ZKtr7vU5cI"
+        },
+        {
+          "titulo": "Smart City of the Future",
+          "url": "https://www.youtube.com/watch?v=9Xd6JAYWyXo"
+        },
+        {
+          "titulo": "Talk Africa: Smart Cities in Africa",
+          "url": "https://www.youtube.com/watch?v=WVOKDVbEStw"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
