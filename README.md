@@ -1,68 +1,77 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49158754/94420139-a1ace580-017b-11eb-8b8b-496ce94ce0b0.JPG" width="400" >
+</p>
 
-## Available Scripts
+<h1 align="center">MarcilioFlix</h1>
 
-In the project directory, you can run:
+---
+## 📋 Índice
+- [Descrição do Projeto](#-Descrição-do-Projeto)
+- [Preview](#-Preview)
+- [Tecnologias utilizadas](#-Tecnologias-utilizadas)
+- [Como executar o projeto](#-Como-executar-o-projeto)
+- [Autor](#-Autor)
 
-### `npm start`
+---
+## 🚀 Descrição do Projeto
+<p>O MarcilioFlix foi um projeto desenvolvido durante a <a href="https://www.alura.com.br/imersao-react">Imersão React</a> realizada pela <a href="https://www.alura.com.br/">@Alura</a>.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+O desafio foi criar um site utilizando React para marcar e listar vídeos e filmes preferidos no YouTube. Com o desenvolvimento de uma Single Page Application, desenvolvi uma aplicação parecida com a Netflix mas dirigida aos documentários de tecnologia.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+O projeto pode ser encontrado neste link: https://marcilioflix-react.vercel.app/</p>
 
-### `npm test`
+--- 
+## 💻 Preview 
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49158754/94420146-a6719980-017b-11eb-93bb-5c02e4513a87.JPG" width="700" >
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49158754/94420158-aa052080-017b-11eb-9cfb-292f1a5f391a.JPG" width="700" >
+</p>
 
-### `npm run build`
+---
+## 🛠️ Tecnologias utilizadas
+As seguintes ferramentas foram usadas na construção do projeto:
+- HTML
+- CSS
+- JavaScript
+- ReactJs
+- Node.js
+- VSCode
+- Git
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+--- 
+## ⌨️ Como executar o projeto
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+```bash
+# Clonar o repositório
+git clone https://github.com/marciliocorreia/marcilioflix
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Entrar no diretório
+cd proffy-marcilioflix
 
-### `npm run eject`
+# Executar o aplicativo no modo de desenvolvimento
+npm start
+Após, será necessário abrir o seu navegador e acessar:  `http://localhost:5500/`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Inicia o executor de teste no modo de observação interativo
+npm test
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Compilar o aplicativo 
+npm run build
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
+## Autor
+<a href="https://www.linkedin.com/in/marciliocorreia/" title="MarcilioCorreia"><img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/49158754?s=460&u=8d2c3e8f7e3441a6b150758a720e7e4379e36407&v=4" width="100px;" alt=""/></a>
+ <sub><b>Marcílio Correia</b></sub><a href="https://www.linkedin.com/in/marciliocorreia/" title="MarcilioCorreia">🚀</a>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+Feito com 💜 por Marcílio Correia 👋 Entre em contato!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[![Gmail Badge](https://img.shields.io/badge/-marcilio.msc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcilio.msc@gmail.com)](mailto:marcilio.msc@gmail.com)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+<a href="https://www.linkedin.com/in/marciliocorreia/">[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marciliocorreia/)]</a>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
